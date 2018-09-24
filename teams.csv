@@ -1,0 +1,827 @@
+2,Auburn,Tigers
+3,Birmingham-Southern,Panthers
+5,UAB,Blazers
+6,South Alabama,Jaguars
+8,Arkansas,Razorbacks
+9,Arizona State,Sun Devils
+11,Colorado Mesa,Mavericks
+12,Arizona,Wildcats
+13,Cal Poly,Mustangs
+15,Anna Maria College,Amcats
+16,Sacramento State,Hornets
+17,Claremont,Stags
+18,Bridgewater State,Bears
+21,San Diego State,Aztecs
+23,San José State,Spartans
+24,Stanford,Cardinal
+25,California,Golden Bears
+26,UCLA,Bruins
+29,Redlands,Bulldogs
+30,USC,Trojans
+32,Carroll (WI),Pioneers
+33,Colby,White Mules
+36,Colorado State,Rams
+38,Colorado,Buffaloes
+40,Curry,Colonels
+41,Connecticut,Huskies
+43,Yale,Bulldogs
+46,Georgetown,Hoyas
+47,Howard,Bison
+48,Delaware,Blue Hens
+49,Dubuque,Spartans
+50,Florida A&M,Rattlers
+52,Florida State,Seminoles
+53,Florida Tech,Panthers
+55,Jacksonville State,Gamecocks
+56,Stetson,Hatters
+57,Florida,Gators
+58,South Florida,Bulls
+59,Georgia Tech,Yellow Jackets
+60,Morehouse,Tigers
+61,Georgia,Bulldogs
+62,Hawai'i,Rainbow Warriors
+63,Buena Vista,Beavers
+65,Grinnell,Pioneers
+66,Iowa State,Cyclones
+67,Luther,Norse
+68,Boise State,Broncos
+70,Idaho,Vandals
+72,Elmhurst,Blue Jays
+74,Millikin,Big Blue
+75,North Park,Vikings
+77,Northwestern,Wildcats
+79,Southern Illinois,Salukis
+80,Chicago,Maroons
+81,Springfield,Pride
+83,DePauw,Tigers
+84,Indiana,Hoosiers
+86,Rose-Hulman,Engineers
+87,Notre Dame,Fighting Irish
+90,Pittsburg State,Gorillas
+93,Murray State,Racers
+95,Pikeville,Bears
+96,Kentucky,Wildcats
+97,Louisville,Cardinals
+98,Western Kentucky,Hilltoppers
+89,Wabash College,Little Giants
+99,LSU,Tigers
+101,Eureka College,Red Devils
+103,Boston College,Eagles
+107,Holy Cross,Crusaders
+108,Harvard,Crimson
+109,MIT,Engineers
+110,Mass Maritime,Buccaneers
+112,Tufts,Jumbos
+113,UMass,Minutemen
+114,Fitchburg State,Falcons
+118,Johns Hopkins,Blue Jays
+119,Towson,Tigers
+120,Maryland,Terrapins
+124,Augsburg,Auggies
+125,Grand Valley State,Lakers
+126,Kalamazoo,Hornets
+127,Michigan State,Spartans
+128,Northern Michigan,Wildcats
+129,Saginaw Valley,Cardinals
+130,Michigan,Wolverines
+131,Wayne State (MI),Warriors
+132,Bemidji State,Beavers
+133,St. Olaf College,Oles
+134,Minnesota-Duluth,Bulldogs
+135,Minnesota,Golden Gophers
+137,Missouri Western,Griffons
+138,Northwest Missouri State,Bearcats
+142,Missouri,Tigers
+143,Washington (MO),Bears
+145,Ole Miss,Rebels
+146,Grove City College,Wolverines
+147,Montana State,Bobcats
+149,Montana,Grizzlies
+150,Duke,Blue Devils
+151,East Carolina,Pirates
+152,NC State,Wolfpack
+153,North Carolina,Tar Heels
+154,Wake Forest,Demon Deacons
+155,North Dakota,Fighting Hawks
+158,Nebraska,Cornhuskers
+159,Dartmouth,Big Green
+160,New Hampshire,Wildcats
+162,Hamline,Fighting Pipers
+163,Princeton,Tigers
+164,Rutgers,Scarlet Knights
+166,New Mexico State,Aggies
+167,New Mexico,Lobos
+171,Columbia,Lions
+172,Cornell,Big Red
+173,Hartwick,Hawks
+174,Hobart,Statesmen
+175,Ithaca,Bombers
+183,Syracuse,Orange
+184,Rochester,Yellow Jackets
+188,Baldwin-Wallace,Yellow Jackets
+190,Defiance,Yellow Jackets
+191,Heidelberg,Student Princes
+193,Miami (OH),RedHawks
+194,Ohio State,Buckeyes
+195,Ohio,Bobcats
+196,Northeastern State,RiverHawks
+197,Oklahoma State,Cowboys
+199,Southeastern Oklahoma,Savage Storm
+2219,Faulkner,Eagles
+121,Bates College,Bobcats
+200,Southern Nazarene,Crimson Storm
+201,Oklahoma,Sooners
+202,Tulsa,Golden Hurricane
+203,Linfield,Wildcats
+204,Oregon State,Beavers
+205,Pacific (OR),Boxers
+209,Lock Haven,Bald Eagles
+210,Millersville,Marauders
+213,Penn State,Nittany Lions
+215,Slippery Rock,The Rock
+216,Susquehanna,Crusaders
+218,Temple,Owls
+219,Pennsylvania,Quakers
+222,Villanova,Wildcats
+223,West Chester,Golden Rams
+225,Brown,Bears
+227,Rhode Island,Rams
+228,Clemson,Tigers
+231,Furman,Paladins
+233,South Dakota,Coyotes
+235,Memphis,Tigers
+236,Chattanooga,Mocs
+237,Union,Dutchmen
+238,Vanderbilt,Commodores
+239,Baylor,Bears
+241,McMurry,War Hawks
+242,Rice,Owls
+245,Texas A&M,Aggies
+246,Juniata,Eagles
+247,King's College (PA),Monarchs
+248,Houston,Cougars
+249,North Texas,Mean Green
+251,Texas,Longhorns
+253,Southern Utah,Thunderbirds
+254,Utah,Utes
+256,James Madison,Dukes
+257,Richmond,Spiders
+258,Virginia,Cavaliers
+259,Virginia Tech,Hokies
+262,Lake Forest,Foresters
+263,Loras College,Duhawks 
+264,Washington,Huskies
+265,Washington State,Cougars
+267,Southeastern University,Fire
+268,Lawrence,Vikings
+271,UW-Oshkosh,Titans
+272,Wisconsin-Platteville,Pioneers
+273,MacMurray College,Highlanders
+274,Maine Maritime,Mariners
+275,Wisconsin,Badgers
+276,Marshall,Thundering Herd
+277,West Virginia,Mountaineers
+278,Fresno State,Bulldogs
+282,Indiana State,Sycamores
+284,Stonehill,Chieftains
+286,NC Wesleyan,Battling Bishops
+290,Georgia Southern,Eagles
+291,Methodist,Monarchs
+293,Castleton State College,Spartans
+294,Jacksonville,Dolphins
+295,Old Dominion,Monarchs
+297,Hampden-Sydney,Tigers
+301,San Diego,Toreros
+252,BYU,Cougars
+255,Knox College,Prairie Fire
+302,UC Davis,Aggies
+304,Idaho State,Bengals
+306,Illinois Wesleyan,Titans
+308,Ashland,Eagles
+309,Louisiana,Ragin' Cajuns
+311,Maine,Black Bears
+316,Dickinson State,Blue Hawks
+317,Marietta,Pioneers
+319,Oklahoma Baptist,Bison
+322,Lafayette,Leopards
+323,Moravian,Greyhounds
+324,Coastal Carolina,Chanticleers
+326,Texas State,Bobcats
+328,Utah State,Aggies
+330,Virginia State,Trojans
+331,Eastern Washington,Eagles
+332,Muskingum,Muskies
+333,Alabama,Crimson Tide
+338,Kennesaw State,Owls
+340,Bowdoin,Polar Bears
+341,Frostburg State,Bobcats
+344,Mississippi State,Bulldogs
+348,Hamilton,Continentals
+349,Army,Black Knights
+351,Wingate,Bulldogs
+352,Kenyon,Lords
+354,Olivet College,Comets
+356,Illinois,Fighting Illini
+359,Otterbein,Cardinals
+363,Principia College,Panthers
+365,Alfred,Saxons
+366,Ferrum,Panthers
+367,Gannon,Golden Knights
+374,St. John Fisher,Cardinals
+375,St. Scholastica,College of St. Scholastica
+379,UMass Dartmouth,Corsairs
+386,Trinity (TX),Tigers
+388,Lebanon Valley,Flying Dutchmen
+389,Upper Iowa,Peacocks
+390,Utica,Pioneers
+391,Oberlin,Yeomen
+395,St. Augustine's,Falcons
+396,Wheaton College (Ill),Thunder
+398,Wilkes,Colonels
+399,Albany,Great Danes
+402,Worcester State College,Lancers
+409,Concordia (WI),Falcons
+411,Chapman,Panthers
+415,George Fox University,Bruins
+417,Gallaudet,Bison
+418,Hendrix College,Warriors
+421,Maranatha Baptist College,Crusaders
+424,Capital,Crusaders
+425,Northern State,Wolves
+426,Mount Union,Raiders
+427,Ohio Northern,Polar Bears
+433,Westminster,Blue Jays
+437,Lake Erie College,Storm
+446,Martin Luther College,Knights
+452,Endicott College,Gulls
+471,Stevenson,Mustangs
+479,Becker College,Hawks
+481,Mount Ida College,Mustangs
+487,Bacone College,Warriors
+455,WV Wesleyan,Bobcats
+488,Baker University,Wildcats
+490,Benedict College,Tigers
+492,Bethany (KS),Swedes
+495,Bluefield College,Rams
+509,Crown College,Storm
+510,Culver-Stockton,Wildcats
+511,Cumberland College,Indians
+512,Dakota State,Trojans
+513,Dakota Wesleyan,Tigers
+530,Graceland University,Yellowjackets
+547,Kansas Wesleyan University,Coyotes
+548,LaGrange College,Panthers
+556,Malone,Pioneers
+559,University of Mary,Marauders
+561,Mayville State,Comets
+565,Midland University,Warriors
+568,Minot State,Beavers
+583,Northwestern (MN),Eagles
+587,Notre Dame College,Blue Falcons
+597,Presentation College,Saints
+599,Robert Morris (IL),Eagles
+611,Seton Hill College,Griffins
+613,South Dakota Mines,Hardrockers
+616,Southwestern College,Moundbuilders
+618,Sterling College,Warriors
+620,Taylor,Trojans
+628,Valley City State,Vikings
+630,Wayland Baptist,Pioneers
+2000,Abilene Christian,Wildcats
+2001,Adams State,Grizzlies
+2003,Adrian,Bulldogs
+2005,Air Force,Falcons
+2006,Akron,Zips
+2010,Alabama A&M,Bulldogs
+2011,Alabama State,Hornets
+2013,Albany State (GA),Golden Rams
+2015,Albright,Lions
+2016,Alcorn State,Braves
+2017,Alderson-Broaddus,Battlers
+2018,Allegheny,Golden Gators
+2022,American International,Yellow Jackets
+2023,Anderson (IN),Ravens
+2025,Angelo State,Rams
+2026,Appalachian State,Mountaineers
+2028,Arkansas-Monticello,Weevils
+2029,Arkansas-Pine Bluff,Golden Lions
+2032,Arkansas State,Red Wolves
+2033,Arkansas Tech,Wonder Boys
+2038,Assumption,Greyhounds
+2042,Augustana (IL),Vikings
+2043,Augustana (SD),Vikings
+2044,Aurora,Spartans
+2045,Austin College,Kangaroos
+2046,Austin Peay,Governors
+2047,Averett,Cougars
+2048,Avila College,Eagles
+2049,Azusa Pacific,Cougars
+2050,Ball State,Cardinals
+2056,Belhaven College,Blazers
+2059,Benedict,Tigers
+2060,Bentley,Falcons
+2062,Bethany (WV),Bison
+2064,Bethel (TN),Wildcats
+2065,Bethune-Cookman,Wildcats
+2069,Black Hills State,Yellow Jackets
+2070,Blackburn,Beavers
+2071,Bloomsburg,Huskies
+2074,Bluffton,Beavers
+2075,Bowie State,Bulldogs
+2079,Bridgewater (VA),Eagles
+2080,Brit Columbia,Thunderbirds
+2083,Bucknell,Bison
+2084,Buffalo,Bulls
+2085,Buffalo State,Bengals
+2086,Butler,Bulldogs
+2089,LIU Post,Pioneers
+2094,Cal Lutheran,Kingsmen
+2097,Campbell,Camels
+2101,Carleton,Knights
+2102,Carnegie Mellon,Tartans
+2105,Carson-Newman,Eagles
+2106,Carthage,Redmen
+2107,Catawba,Indians
+2108,Catholic University,Cardinals
+2110,Central Arkansas,Bears
+2115,Central Connecticut,Blue Devils
+2116,UCF,Knights
+2117,Central Michigan,Chippewas
+2118,Central Missouri State,Mules
+2119,Central State,Marauders
+2120,Central Washington,Wildcats
+2121,Centre,Colonels
+2122,Central Oklahoma,Bronchos
+2123,Chadron State,Eagles
+2127,Charleston Southern,Buccaneers
+2128,Charleston (WV),Golden Eagles
+2129,Cheyney,Wolves
+2132,Cincinnati,Bearcats
+2134,Clarion,Golden Eagles
+2141,Coe,Kohawks
+2142,Colgate,Raiders
+2144,Colorado College,Tigers
+2146,Colorado Mines,Orediggers
+2148,Concord,Mountain Lions
+2151,Concordia (IL),Cougars
+2152,Concordia (MN),Cobbers
+2161,Cumberland,Bulldogs
+2166,Davidson,Wildcats
+2168,Dayton,Flyers
+2169,Delaware State,Hornets
+2170,Delta State,Statesmen
+2171,Denison,Big Red
+2175,Dickinson,Red Devils
+2181,Drake,Bulldogs
+2184,Duquesne,Dukes
+2188,East Stroudsburg,Warriors
+2189,Earlham,Quakers
+2191,East Central,Tigers
+2193,East Tennessee State,Buccaneers
+2194,East Texas Baptist,Tigers
+2197,Eastern Illinois,Panthers
+2198,Eastern Kentucky,Colonels
+2199,Eastern Michigan,Eagles
+2201,Eastern New Mexico,Greyhounds
+2202,Eastern Oregon,Mountaineers
+2205,Edinboro,Fighting Scots
+2207,Elizabeth City State,Vikings
+2210,Elon,Phoenix
+2213,Emory & Henry,Wasps
+2214,Emporia State,Hornets
+2220,Fayetteville State,Broncos
+2221,FDU-Florham,Devils
+2222,Ferris State,Bulldogs
+2224,Findlay,Oilers
+2226,Florida Atlantic,Owls
+2385,Mercyhurst,Lakers
+2229,Florida International,Golden Panthers
+2230,Fordham,Rams
+2231,Fort Hays State,Tigers
+2232,Fort Valley State,Wildcats
+2233,Franklin,Grizzlies
+2234,Franklin & Marshall,Diplomats
+2237,Fort Lewis,Skyhawks
+2241,Gardner-Webb,Bulldogs
+2242,Geneva College,Golden Tornadoes
+2244,George Mason,Patriots
+2247,Georgia State,Panthers
+2248,Gettysburg,Bullets
+2249,Glenville State,Pioneers
+2256,Greensboro,Pride
+2257,Greenville,Panthers
+2258,Guilford,Quakers
+2261,Hampton,Pirates
+2262,Hanover,Panthers
+2264,Harding,Bison
+2271,Henderson State,Reddies
+2273,Hillsdale,Chargers
+2274,Hiram,Terriers
+2277,Houston Baptist,Huskies
+2278,Humboldt State,Lumberjacks
+2280,Husson,Eagles
+2283,Benedictine (IL),Eagles
+2286,Illinois College,Blueboys
+2287,Illinois State,Redbirds
+2291,Indiana (PA),Crimson Hawks
+2292,Indianapolis,Greyhounds
+2294,Iowa,Hawkeyes
+2295,Iowa Wesleyan,Tigers
+2296,Jackson State,Tigers
+2302,John Carroll,Blue Streaks
+2304,Johnson C Smith,Golden Bulls
+2305,Kansas,Jayhawks
+2306,Kansas State,Wildcats
+2309,Kent State,Golden Flashes
+2310,Kentucky State,Thorobreds
+2315,Kutztown,Golden Bears
+2316,Kentucky Wesleyan,Panthers
+2318,La Verne,Leopards
+2320,Lamar,Cardinals
+2321,Lambuth,Eagles
+2323,Lane,Dragons
+2324,Langston,Lions
+2329,Lehigh,Mountain Hawks
+2331,Lenoir-Rhyne,Bears
+2333,Lewis & Clark,Pioneers
+2335,Liberty,Flames
+2336,Limestone,Saints
+2339,Lincoln (PA),Lions
+2347,Louisiana College,Wildcats
+2348,Louisiana Tech,Bulldogs
+2349,UMass Lowell,River Hawks
+2354,Lycoming,Warriors
+2359,Macalester,Scots
+2362,Manchester,Spartans
+2364,Minnesota State,Mavericks
+2365,Mansfield,Mountaineers
+2366,Marian,Knights
+2368,Marist,Red Foxes
+2369,Mars Hill,Lions
+2371,Mary Hardin-Baylor,Crusaders
+2377,McNeese,Cowboys
+2381,Menlo,Oaks
+2382,Mercer,Bears
+2383,Merchant Marine,Mariners
+2390,Miami,Hurricanes
+2392,Michigan Tech,Huskies
+2394,Middlebury,Panthers
+2395,Midwestern State,Mustangs
+2396,Miles,Golden Bears
+2398,Millsaps,Majors
+2399,Minnesota-Morris,Cougars
+2400,Mississippi Valley State,Delta Devils
+2401,Mississippi College,Choctaws
+2402,Missouri S&T,Miners
+2403,Missouri Southern State,Lions
+2405,Monmouth,Hawks
+2413,Morehead State,Eagles
+2415,Morgan State,Bears
+2416,Morningside,Chiefs
+2419,Mount St. Joseph,Lions
+2422,Muhlenberg,Mules
+2424,New Mexico Highlands,Cowboys
+2426,Navy,Midshipmen
+2428,North Carolina Central,Eagles
+2429,Charlotte,49ers
+2433,Louisiana Monroe,Warhawks
+2437,Nebraska-Omaha,Mavericks
+2438,Nebraska-Kearney,Lopers
+2440,Nevada,Wolf Pack
+2441,New Haven,Chargers
+2442,College of New Jersey,Lions
+2444,Newberry,Wolves
+2447,Nicholls,Colonels
+2448,North Carolina A&T,Aggies
+2449,North Dakota State,Bison
+2450,Norfolk State,Spartans
+2453,North Alabama,Lions
+2458,Northern Colorado,Bears
+2459,Northern Illinois,Huskies
+2460,Northern Iowa,Panthers
+2464,Northern Arizona,Lumberjacks
+2466,Northwestern State,Demons
+2467,Norwich,Cadets
+2475,Occidental,Tigers
+2483,Oregon,Ducks
+2486,Pacific Lutheran,Lutes
+2487,Pace,Setters
+2502,Portland State,Vikings
+2504,Prairie View,Panthers
+2506,Presbyterian College,Blue Hose
+2508,Puget Sound,Loggers
+2509,Purdue,Boilermakers
+2516,Randolph-Macon,Yellow Jackets
+2519,Rhodes,Lynx
+2523,Robert Morris,Colonials
+2524,Rockford,Regents
+2528,Rensselaer,Engineers
+2529,Sacred Heart,Pioneers
+2532,Salisbury,Sea Gulls
+2676,Virginia Union,Panthers
+2439,UNLV,Rebels
+2534,Sam Houston State,Bearkats
+2535,Samford,Bulldogs
+2542,Savannah State,Tigers
+2545,Southeastern Louisiana,Lions
+2546,Southeast Missouri State,Redhawks
+2551,Shaw,Bears
+2557,Coast Guard,Bears
+2559,Shippensburg,Raiders
+2560,Shorter,Hawks
+2562,Siena Heights,Saints
+2567,SMU,Mustangs
+2568,Southern Arkansas,Muleriders
+2569,South Carolina State,Bulldogs
+2570,Colorado State-Pueblo,Thunderwolves
+2571,South Dakota State,Jackrabbits
+2572,Southern Mississippi,Golden Eagles
+2579,South Carolina,Gamecocks
+2582,Southern,Jaguars
+2583,Southern Connecticut State,Owls
+2584,Southern Oregon,Raiders
+2586,Southwest Baptist,Bearcats
+2587,Southwest Minnesota State,Mustangs
+2591,St. Ambrose,Fighting Bees
+2594,St. Cloud State,Huskies
+2595,St. Francis (IL),Fighting Saints
+2598,St Francis (PA),Red Flash
+2600,St. Johns (MN),Johnnies
+2611,St. Paul's College,Tigers
+2612,St. Peter's,Peacocks
+2614,St. Vincent,Bearcats
+2615,St. Xavier (IL),Cougars
+2617,Stephen F. Austin,Lumberjacks
+2619,Stony Brook,Seawolves
+2623,Missouri State,Bears
+2627,Tarleton State,Texans
+2630,UT Martin,Skyhawks
+2633,Tennessee,Volunteers
+2634,Tennessee State,Tigers
+2635,Tennessee Tech,Golden Eagles
+2636,UT San Antonio,Roadrunners
+2637,Texas College,Steers
+2638,UTEP,Miners
+2639,Texas Lutheran,Bulldogs
+2640,Texas Southern,Tigers
+2641,Texas Tech,Red Raiders
+2643,The Citadel,Bulldogs
+2644,Thiel College,Tomcats
+2646,Thomas More,Saints
+2649,Toledo,Rockets
+2651,Trine,Thunder
+2652,Trinity (IL),Trojans
+2653,Troy,Trojans
+2654,Truman State,Bulldogs
+2655,Tulane,Green Wave
+2657,Tuskegee,Golden Tigers
+2658,Texas A&M-Kingsville,Javelinas
+2666,Urbana,Blue Knights
+2667,Ursinus,Bears
+2673,Valdosta State,Blazers
+2674,Valparaiso,Crusaders
+2553,Sewanee Univ. of the South,Tigers
+2564,Simpson College,Storm
+2681,Wagner,Seahawks
+2682,Walsh,Cavaliers
+2683,Warner,Royals
+2685,Wartburg,Knights
+2686,Washington & Jefferson,Presidents
+2687,Washburn,Ichabods
+2688,Washington & Lee,Generals
+2691,Webber International,Warriors
+2692,Weber State,Wildcats
+2695,West Alabama,Tigers
+2698,West Georgia,Wolves
+2699,West Liberty,Hilltoppers
+2700,McDaniel College,Terrors
+2701,Montana-Western,Bulldogs
+2702,Western New England,Golden Bears
+2703,Western New Mexico,Mustangs
+2704,West Texas A&M,Buffaloes
+2706,West Virginia Tech,Golden Bears
+2707,WV State,Yellow Jackets
+2710,Western Illinois,Leathernecks
+2711,Western Michigan,Broncos
+2714,Western State,Mountaineers
+2717,Western Carolina,Catamounts
+2721,Whitworth,Pirates
+2723,UW-River Falls,Falcons
+2725,Widener,Pride
+2729,William & Mary,Tribe
+2731,Williams,Ephs
+2733,Wilmington (OH),Quakers
+2736,Winston-Salem,Rams
+2738,Wisconsin-Eau Claire,Blugolds
+2740,Wisconsin-La Crosse,Eagles
+2741,Wisconsin Lutheran,Warriors
+2743,Wisconsin-Stevens Point,Pointers
+2744,UW-Stout,Blue Devils
+2745,UW-Whitewater,Warhawks
+2746,Wittenberg,Tigers
+2747,Wofford,Terriers
+2748,Wooster,Fighting Scots
+2749,Worcester Polytechnic,Engineers
+2750,Wright State University,Raiders
+2751,Wyoming,Cowboys
+2754,Youngstown State,Penguins
+2757,Berry College,Vikings
+2758,Howard Payne,Yellow Jackets
+2770,Manitoba,Bisons
+2771,Merrimack,Warriors
+2772,Minnesota-Crookston,Golden Eagles
+2776,Salve Regina,Seahawks
+2779,St Lawrence,Saints
+2781,Brockport State (NY),Golden Eagles
+2782,SUNY Cortland,Red Dragons
+2790,Albion,Britons
+2800,Alma College,Scots
+2802,Bethel (MN),Royals
+2803,Bryant,Bulldogs
+2804,Chowan,Braves
+2805,Clark Atlanta,Panthers
+2808,Delaware Valley,Aggies
+2810,Hardin-Simmons,Cowboys
+2812,Hope,Flying Dutchmen
+2815,Lindenwood,Lions
+2816,McKendree,Bearcats
+2678,VMI,Keydets
+2817,Minnesota St-Moorhead,Dragon
+2818,Montclair State,Red Hawks
+2822,North Greenville,Crusaders
+2823,Northwestern Oklahoma State,Rangers
+2824,OK Panhandle St,Aggies
+2825,Quincy,Hawks
+2827,Rowan,Professors
+2828,Shenandoah,Hornets
+2829,Simon Fraser,Clansmen
+2830,St. Anselm,Hawks
+2831,St. Francis (IN),Cougars
+2832,St. Norbert,Green Knights
+2834,Sul Ross State,Lobos
+2837,Texas A&M-Commerce,Lions
+2838,Tiffin,Dragons
+2839,Tusculum,Pioneers
+2842,UVA-Wise,Highland Cavaliers
+2843,Western Connecticut State,Colonials
+2844,Wayne State (NE),Wildcats
+2845,Waynesburg,Yellow Jackets
+2846,Wesley College,Wolverines
+2847,Western Washington,Vikings
+2848,Western Oregon,Wolves
+2849,Westminster PA,Titans
+2850,Whittier,Poets
+2851,Winona State,Warriors
+2858,California (PA),Vulcans
+2860,Central Methodist,Eagles
+2865,Evangel,Crusaders
+2871,Kean,Cougars
+2876,Lincoln (MO),Blue Tigers
+2877,Lindsey Wilson,Blue Raiders
+2880,Missouri Baptist,Spartans
+2882,UNC Pembroke,Braves
+2884,Nichols,Bison
+2886,Northwood (MI),Timberwolves
+2888,Ouachita Baptist,Tigers
+2890,Reinhardt,Eagles
+2891,Ripon,Redhawks
+2894,Sioux Falls,Cougars
+2896,Southern Virginia,Knights
+2900,St. Thomas (MN),Tommies
+2904,Southwestern Assemblies of God,Lions
+2907,Trinity International (IL),Trojans
+2909,Westfield State,Owls
+2911,William Jewell College,Cardinals
+2912,William Penn,Statesmen
+2913,Brevard College,Tornados
+2916,Incarnate Word,Cardinals
+2919,Monmouth (IL),Fighting Scots
+2923,Pomona-Pitzer,Sagehens
+2927,Southwestern Oklahoma,Bulldogs
+2930,Willamette,Bearcats
+2938,Huntingdon,Hawks
+2939,Jamestown,Jimmies
+2940,Livingstone,Blue Bears
+2951,SUNY Maritime,Privateers
+2963,Case Western Reserve,Spartans
+2964,Central,Dutch
+2967,Framingham State,Rams
+2968,Gustavus Adolphus,Golden Gusties
+2969,Misericordia,Cougars
+2970,William Paterson,Pioneers
+2972,Plymouth State,Panthers
+2974,Shepherd,Rams
+2977,Trinity (CT),Bantams
+2980,Ohio Wesleyan,Battling Bishops
+2985,Concordia College (MI),Cardinals
+2986,Fairmont State,Falcons
+3066,Concordia-St. Paul,Golden Bears
+3071,North Central,Cardinals
+3077,Kentucky Christian,Knights
+3080,Waldorf,Warriors
+3099,Concordia (AL),Hornets
+3100,Monterrey Tech,Rams
+3101,Dixie State,Red Storm
+3110,Morrisville State,Mustangs
+3111,Apprentice School,Builders
+3112,Christopher Newport,Captains
+3130,Williamson Trade,Mechanics
+3161,Ohio State Newark,Titans
+3162,Alfred State College,Pioneers
+3178,Ave Maria,Gyrenes
+3179,Point University,Point
+3181,Shepherd Tech,Eagles
+3209,Lindenwood Belleville,Lynx
+3211,College of Faith,Warriors
+3214,Trinity Bible,Lions
+3236,Erie Community College,Kats
+3253,College of Faith - Charlotte,Saints
+3254,University of Faith,Glory Eagles
+6353,Lakeland University,Lakeland
+6845,Nebraska Wesleyan University,Neb Wesleyan
+16111,Benedictine College,Bndctne Col
+108354,Holland College,Hurricanes
+108358,Arizona Christian,Firestorm
+108382,College of Idaho,Yotes
+108398,Ohio Midwestern College,Rams
+109418,Finlandia University,Lions
+111,Northeastern,Huskies
+2275,Hofstra,Pride
+189,Bowling Green,Falcons
+2628,TCU,Horned Frogs
+1000000,Iowa Pre-Flight,Seahawks
+1000001,Denver,Pioneers
+1000002,Swarthmore,Garnet Tide
+1000003,Santa Clara,Broncos
+221,Pittsburgh,Panthers
+1000004,San Francisco,Dons
+1000005,North Carolina Pre-Flight,Cloudbusters
+1000006,Long Beach State,49ers
+1000007,California-Santa Barbara,Gauchos
+7,Amherst College,Lord Jeffs
+266,Beloit College,Buccaneers
+2155,Cornell College (IA),Rams
+2755,Grambling,Tigers
+535,Haskell Indian Nations,Jayhawks
+2373,Maryville TN,Fighting Scots
+2393,Middle Tennessee,Blue Raiders
+2588,Southwestern University,Pirates
+2841,Union College,Dutchmen
+336,Wesleyan,Cardinals
+1000008,Alameda Coast Guard,Sea Lions
+1000009,Amarillo Field,Sky Giants
+1000010,Boston University,Terriers
+1000011,Bradley,Braves
+1000012,Cal State Fullerton,Titans
+1000013,Cal State Los Angeles,Golden Eagles
+1000014,Camp Grant,Warriors
+1000015,Carlisle,Indians
+1000016,Centenary (LA),Gents
+1000017,Creighton,Bluejays
+1000018,Del Monte Pre-Flight,Navyators
+1000019,Detroit Mercy,Titans
+1000020,Drury,Panthers
+1000021,Erskine,The Flying Fleet
+1000022,Fort Benning,Doughboys
+1000023,Fort Riley,Centaurs
+1000024,Fort Warren,Broncos
+1000025,George Washington,Colonials
+1000026,Georgia Pre-Flight,Skycrackers
+1000027,Gonzaga,Bulldogs
+1000028,Great Lakes Navy,Bluejackets
+1000029,Haskell,Indians
+1000030,Haverford,Fords
+1000031,Jacksonville Naval Air Station,Flyers
+1000032,Lombard,""
+1000033,Loyola (LA),Wolfpack
+1000034,Loyola Marymount,Lions
+1000035,Lubbock Field,""
+1000036,Manhattan,Jaspers
+1000037,March Field,Flyers
+1000038,Mare Island Marines,""
+1000039,Marquette,Golden Eagles
+1000040,Nashville,""
+1000041,New York University,Violets
+1000042,Norman Naval Air Station,Zoomers
+1000043,Oglethorpe,Stormy Petrels
+1000044,Pacific,Tigers
+1000045,Phillips,Haymakers
+1000046,Portland,Pilots
+1000047,Quantico Marines,Devil Dogs
+1000048,Randolph Field,Ramblers
+1000049,Regis (CO),Rangers
+1000050,Saint Louis,Billikens
+1000053,Second Air Force,Superbombers
+1000054,Spring Hill,Badgers
+1000055,Stevens,Ducks
+1000056,Tampa,Spartans
+1000057,Tennessee Medical College,""
+1000058,Texas-Arlington,Mavericks
+1000059,Union (NY),Dutchmen
+1000060,Vermont,Catamounts
+1000061,Wesleyan (CT),Cardinals
+1000062,Whitman,Missionaries
+1000063,Wichita State,Shockers
+1000064,Xavier,Musketeers
+1000051,Saint Mary's (CA),Gaels
+1000065,Saint Mary's (CA) Pre-Flight,Air Devils
